@@ -1,5 +1,5 @@
 # Importance of Patch Management Report  
-Submitted By: [Ayush Mishra]  
+Submitted By: Ayush Mishra  
 Submitted Under: Oasis Infobyte Security Analyst Internship  
 Task: Task 3 – Importance of Patch Management  
 
